@@ -1,6 +1,6 @@
 # ng-boot
 
-Sample Spring Boot application with nodeJS
+Sample Spring Boot application with AngularJS
 
 
 
